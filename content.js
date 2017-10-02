@@ -1,5 +1,3 @@
-/* global HideFilesOnGitHub */
-
 'use strict';
 
 const domLoaded = new Promise(resolve => {
