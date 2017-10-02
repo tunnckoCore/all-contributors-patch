@@ -1,12 +1,12 @@
 {
-	"name": "All Contributors Specification",
-	"version": "313.414.121",
+	"name": "All Contributors - A Patch",
+	"version": "1.0.0",
 	"description": "An extension that patch a little problem in generated tables by `all-contributors-cli` specification",
 	"homepage_url": "https://github.com/charlike/all-contributors-cli-patch",
 	"manifest_version": 2,
 	"minimum_chrome_version": "54",
 	"icons": {
-		"128": "frog.png"
+		"128": "icon.png"
 	},
 	"permissions": [
 		"https://github.com/*/*"
