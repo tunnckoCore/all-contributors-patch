@@ -11,3 +11,11 @@ Since I don't have account on Chrome Web Store you are free to publish it. Other
 5. That's it! :)
 
 Soon more stable repository, sorry! :)
+
+### Before this plugin
+
+![](https://user-images.githubusercontent.com/8344688/31066540-99197ff2-a745-11e7-858c-1203791818d5.png)
+
+### After
+
+![](https://user-images.githubusercontent.com/1500684/31079523-27a7ab34-a743-11e7-89fb-5dca0b2f680b.png)
